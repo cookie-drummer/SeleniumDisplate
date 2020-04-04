@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="780a1d96-a9b9-4e03-abe5-18a2ea98a8ba" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a29MPNexOKaqt05u2MbZNsPJ18" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$/lib/junit.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rafal\IdeaProjects\SeleniumDisplate\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.DisplateTests">
+    <configuration name="Tests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tests.Tests" />
+      <module name="SeleniumDisplate" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DisplateTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumDisplate" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DisplateTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DisplateTests.Heja" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumDisplate" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DisplateTests" />
+      <option name="METHOD_NAME" value="Heja" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DisplateTests.S01T01_AddItemToCartAndApplyDiscountCode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumDisplate" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DisplateTests" />
+      <option name="METHOD_NAME" value="S01T01_AddItemToCartAndApplyDiscountCode" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DisplateTests.S01T02_AddLSizedItemToCartAndApplyDiscountCode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumDisplate" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DisplateTests" />
+      <option name="METHOD_NAME" value="S01T02_AddLSizedItemToCartAndApplyDiscountCode" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DisplateTests" />
+        <item itemvalue="JUnit.DisplateTests.S01T02_AddLSizedItemToCartAndApplyDiscountCode" />
+        <item itemvalue="JUnit.DisplateTests.S01T01_AddItemToCartAndApplyDiscountCode" />
+        <item itemvalue="JUnit.DisplateTests.Heja" />
+        <item itemvalue="Application.Tests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="780a1d96-a9b9-4e03-abe5-18a2ea98a8ba" name="Default Changelist" comment="" />
+      <created>1585922772907</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585922772907</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="557" y="175" key="#DisplateTests.Heja" timestamp="1585930781734">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="557" y="175" key="#DisplateTests.Heja/0.0.1920.1050@0.0.1920.1050" timestamp="1585930781734" />
+    <state x="552" y="183" key="#Project_Structure" timestamp="1585922793801">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="183" key="#Project_Structure/0.0.1920.1050@0.0.1920.1050" timestamp="1585922793801" />
+    <state x="92" y="92" width="1736" height="866" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1585962757553">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="92" y="92" width="1736" height="866" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1585962757553" />
+    <state x="732" y="328" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585922840604">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="732" y="328" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1585922840604" />
+    <state x="638" y="450" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1585966308372">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="638" y="450" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1585966308372" />
+    <state x="756" y="384" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585966478936">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="756" y="384" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1050@0.0.1920.1050" timestamp="1585966478936" />
+    <state x="756" y="405" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1585966311428">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="756" y="405" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1050@0.0.1920.1050" timestamp="1585966311428" />
+    <state width="550" height="466" key="DebuggerActiveHint" timestamp="1585960132053">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="550" height="466" key="DebuggerActiveHint/0.0.1920.1050@0.0.1920.1050" timestamp="1585960132053" />
+    <state x="866" y="338" key="FileChooserDialogImpl" timestamp="1585931022321">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="866" y="338" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1585931022321" />
+    <state width="1412" height="285" key="GridCell.Tab.0.bottom" timestamp="1585966256710">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1412" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1585966256710" />
+    <state width="1412" height="285" key="GridCell.Tab.0.center" timestamp="1585966256709">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1412" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1585966256709" />
+    <state width="1412" height="285" key="GridCell.Tab.0.left" timestamp="1585966256709">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1412" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1585966256709" />
+    <state width="1412" height="285" key="GridCell.Tab.0.right" timestamp="1585966256709">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1412" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1585966256709" />
+    <state width="938" height="352" key="GridCell.Tab.1.bottom" timestamp="1585962699893">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="352" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1585962699893" />
+    <state width="938" height="352" key="GridCell.Tab.1.center" timestamp="1585962699893">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="352" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1585962699893" />
+    <state width="938" height="352" key="GridCell.Tab.1.left" timestamp="1585962699893">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="352" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1585962699893" />
+    <state width="938" height="352" key="GridCell.Tab.1.right" timestamp="1585962699893">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="352" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1585962699893" />
+    <state x="412" y="117" key="SettingsEditor" timestamp="1585966447905">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="412" y="117" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1585966447905" />
+    <state x="661" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1585923953805">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="661" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1585923953805" />
+    <state x="591" y="70" width="737" height="909" key="find.popup" timestamp="1585930398251">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="591" y="70" width="737" height="909" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1585930398251" />
+    <state x="342" y="145" key="new project wizard" timestamp="1585930255257">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="342" y="145" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1585930255257" />
+  </component>
+</project>
